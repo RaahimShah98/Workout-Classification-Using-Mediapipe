@@ -1,4 +1,3 @@
-Workout_Classification (1).ipynb:
 
 ### 1. **Pose Feature Extraction:**
    - The code calculates various body angles and distances using key body points such as shoulders, knees, hips, ankles, and wrists. These features include:
